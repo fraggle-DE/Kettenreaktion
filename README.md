@@ -1,7 +1,7 @@
 # Kettenreaktion
 Script zur Erstellung von Kettenreaktions-SVG und -PDF (das Originalscript stammt von rkschlotte)
 
-<img alt="Kettenreaktion mit den ältesten Logs - Stand 25.09.2025" target="_blank" src="https://github.com/fraggle-DE/Kettenreaktion/raw/main/pictures/Kettenreaktion%20%C3%A4ltester%20Caches%2020250925.svg">
+<a target="_blank" href="https://github.com/fraggle-DE/Kettenreaktion/raw/main/pictures/Kettenreaktion%20%C3%A4ltester%20Caches%2020250925.svg"><img alt="Kettenreaktion mit den ältesten Logs - Stand 25.09.2025" src="https://github.com/fraggle-DE/Kettenreaktion/blob/main/pictures/Kettenreaktion%20%C3%A4ltester%20Caches%2020250925.svg"></a>
 
 ## Voraussetzungen
 1. Getestet wurde unter Linux (Lubuntu 22.04), für das folgende Installationen notwendig sind:
