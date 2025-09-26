@@ -1,5 +1,5 @@
 # Kettenreaktion
-Script zur Erstellung von Kettenreaktions-SVG und -PDF (das Originalscript stammt von rkschlotte)
+Script zur Erstellung von Kettenreaktions-SVG und -PDF basierend auf www.opencaching.de (das Originalscript stammt von rkschlotte)
 
 <a href="https://github.com/fraggle-DE/Kettenreaktion/raw/main/pictures/Kettenreaktion%20%C3%A4ltester%20Caches%2020250925.svg" target="_blank"><img alt="Kettenreaktion mit den ältesten Logs - Stand 25.09.2025" src="https://github.com/fraggle-DE/Kettenreaktion/blob/main/pictures/Kettenreaktion%20%C3%A4ltester%20Caches%2020250925.svg"></a>
 <br>
