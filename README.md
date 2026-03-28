@@ -27,9 +27,11 @@ export OKAPI_CONSUMER_KEY=xxxxxxxxxx
 ```
 
 
-## Script starten und Grafiken/PDFs erzeugen
-Es gibt ein Kommando, das alle einzelnen Kommandos enthält. Es aktualisiert gegebenenfalls die OKAPI-Daten, erstellt SVGs und PDFs und öffnet sie:
+## Scripte starten und Grafiken/PDFs erzeugen
+Mit den folgenden Kommandos werden die Daten über die OKAPI aktualisiert, sowie die SVGs und PDFs erstellt und in entsprechenden Anwendungen geöffnet:
 ```
+python3 build_graph_phase1_retrieve_data
+python3 build_graph_phase2_generate_dot
 make all
 ```
 <br>
